@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+  .nav-name {
+    display: none;
+  }
+
+  #nav-bar {
+    height: autopx;
+    display: block;
+  }
+  #nav-bar a:link,
+  a:visited {
+    display: block;
+    padding: 10px;
+    border-left: none;
+    text-align: left;
+  }
+
+  #personal-info {
+    padding-right: 50px;
+  }
+  .cer-content-2 {
+    border-left: none;
+    padding-left: 0px;
+    padding-top: 20px;
+    border-top: 2px solid #e38c0a;
+  }
+  .cer-content {
+    display: block;
+  }
+  .project-grid {
+    display: block;
+  }
+}

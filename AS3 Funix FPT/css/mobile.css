@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    .nav-name{
+        display: none;
+    }
+
+    #nav-bar{
+        height: autopx;
+        display: block;
+    }
+    #nav-bar a:link, a:visited{
+        display: block;
+        padding: 10px;
+        border-left: none;
+        text-align: left;
+    }
+   
+    #personal-info {
+        padding-right: 25px;
+    }
+    #target{
+        padding: 10px;
+    }
+}

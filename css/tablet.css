@@ -1,0 +1,43 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  .text-nav {
+    display: none;
+  }
+
+  #banner {
+    padding: 0px !important;
+  }
+  #nav-bar a:link,
+  a:visited {
+    padding: 10px;
+    margin-right: 1rem;
+    padding-bottom: 30px;
+  }
+  #navbar {
+    margin-top: 1rem;
+  }
+
+  #personal-info {
+    font-size: 16px;
+    padding-right: 40px;
+  }
+
+  .nav-name {
+    display: none;
+  }
+  #target {
+    font-size: 16px;
+  }
+  .cer-content {
+    display: block;
+  }
+  .container {
+    margin: 0px !important;
+  }
+  .cer-content-2 {
+    padding-left: 0px;
+    border-left: none;
+  }
+  .project-grid {
+    display: block;
+  }
+}
